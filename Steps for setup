@@ -1,0 +1,6 @@
+1) Download zip file
+2) Extract zip and open folder in VS Code
+3) install npm in frontend as well as backend directory by using following command
+4) npm install
+4) then in backend give command - node server.js
+4) and in frontend give command - npm start
